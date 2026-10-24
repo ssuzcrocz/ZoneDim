@@ -1,0 +1,12 @@
+# Public website only (GitHub Pages). Zonedim's app source is NOT open source:
+# only the files explicitly allowed below can ever be committed from this folder.
+*
+!.gitignore
+!README.md
+!index.html
+!privacy.html
+!assets/
+!assets/style.css
+!assets/icon.png
+!assets/feature.png
+!.nojekyll
